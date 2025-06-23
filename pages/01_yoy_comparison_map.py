@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
 
 # ✅ 와이드 페이지 설정
 st.set_page_config(layout="wide")
