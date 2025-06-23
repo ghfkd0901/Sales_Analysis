@@ -1,0 +1,16 @@
+# 일반 파이썬 무시 항목
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+ENV/
+env/
+.ipynb_checkpoints/
+
+# 데이터 중 제외할 폴더
+data/raw/
+data/geo/
+notebooks/
